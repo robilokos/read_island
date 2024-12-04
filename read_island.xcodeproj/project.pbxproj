@@ -35,14 +35,14 @@
 			path = read_island;
 			sourceTree = "<group>";
 		};
-		0719E16E2D004DD800A153C2 /* read_islandTests */ = {
+		0719E16E2D004DD800A153C2 /* readIslandTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = read_islandTests;
+			path = readIslandTests;
 			sourceTree = "<group>";
 		};
-		0719E1782D004DD800A153C2 /* read_islandUITests */ = {
+		0719E1782D004DD800A153C2 /* readIslandUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = read_islandUITests;
+			path = readIslandUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -76,8 +76,8 @@
 			isa = PBXGroup;
 			children = (
 				0719E15D2D004DD700A153C2 /* read_island */,
-				0719E16E2D004DD800A153C2 /* read_islandTests */,
-				0719E1782D004DD800A153C2 /* read_islandUITests */,
+				0719E16E2D004DD800A153C2 /* readIslandTests */,
+				0719E1782D004DD800A153C2 /* readIslandUITests */,
 				0719E15C2D004DD700A153C2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -131,7 +131,7 @@
 				0719E16D2D004DD800A153C2 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				0719E16E2D004DD800A153C2 /* read_islandTests */,
+				0719E16E2D004DD800A153C2 /* readIslandTests */,
 			);
 			name = read_islandTests;
 			packageProductDependencies = (
@@ -154,7 +154,7 @@
 				0719E1772D004DD800A153C2 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				0719E1782D004DD800A153C2 /* read_islandUITests */,
+				0719E1782D004DD800A153C2 /* readIslandUITests */,
 			);
 			name = read_islandUITests;
 			packageProductDependencies = (

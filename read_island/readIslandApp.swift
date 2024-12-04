@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct read_islandApp: App {
+struct readIslandApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

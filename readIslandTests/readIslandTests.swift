@@ -8,7 +8,7 @@
 import Testing
 @testable import read_island
 
-struct read_islandTests {
+struct readIslandTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.
